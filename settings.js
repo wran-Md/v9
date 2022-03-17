@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "Wrann Bot Assisten" //namabot kalian
 global.ownername= "WrannGamteng" //nama kalian
-global.myweb ="https//wa.me/62895326205615" //bebas asal jan hapus
+global.myweb ="https://wa.me/62895326205615" //bebas asal jan hapus
 global.youtube = "https://vm.tiktok.com/ZSddTpC2V/" //bebas asal jan hapus
 global.github = "https://wran-bot.github.io/" //bebas
 global.email = "hengkerwbu@gmail.com" //bebas
