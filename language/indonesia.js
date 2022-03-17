@@ -2,10 +2,10 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `⏳ Mohon tunggu sebentar~`
+    return `Loading..... `
 }
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `✅ Done.Jangan lupa follow Tiktok @hengkerwbu9`
 }
 
 exports.err = () => {
@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu Alphabot-Md :*
+*📚 List-Menu Wrann-bot :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -781,6 +781,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ ${prefix}rose
 
 ╭─❒ 「 TqTo 」 
+├ Wrann Gamteng
 ├ My God
 ├ My Parents
 ├ Fatih A.
@@ -842,28 +843,36 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
-Goodbye`
+	return`ANAK ANJING GK USAH BALIK LAGI LU KONTOL
+GOODBYE`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Base : Zeeone Ofc
+Recode : Wrann Gamteng
 `
 }
 exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+HALO KAK 😊
+MAU SEWA BOT? 
 
-Berapapun donasi kalian akan sangat berarti 👍
+BISA MASUKIN GRUP
+FAST RESPON
+RUN HEROKU
+MURAH
 
-Thanks!
+1 BULAN 3K
+PERMANEN 5K
 
-Contact person Owner:
+CHAT OWNER KALO MAU SEWA👍
+
+THANKS!
+
+CONTACT OWNER:
 wa.me/${ownernomer}
 
     `
@@ -1455,6 +1464,7 @@ return`╭─❒ 「 Random Cewe 」
 
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
+├ Wrann Gamteng
 ├ My God
 ├ My Parents
 ├ Fatih A.
