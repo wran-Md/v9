@@ -1580,7 +1580,7 @@ break
             break
 				case 'menu':{
 					if(typemenu == 'templateLocation'){
-						await alpha.send5ButLoc(from, lang.menunya(salam, pushname, botname) , `© ${ownername}`,pp_bot, [{"urlButton": {"displayText": "Tiktok Creator","url": `${youtube}`}},{"callButton": {"displayText": "Kontak Owner","url": `${myweb}`}},{"quickReplyButton": {"displayText": "SEWA","id": 'donate'}},{"quickReplyButton": {"displayText": "OWNER","id": 'owner'}},{"quickReplyButton": {"displayText": "LIST MENU","id": 'command'}}] )
+						await alpha.send5ButLoc(from, lang.menunya(salam, pushname, botname) , `© ${ownername}`,pp_bot, [{"urlButton": {"displayText": "Tiktok Creator","url": `${youtube}`}},{"urlButton": {"displayText": "Kontak Owner","url": `${myweb}`}},{"quickReplyButton": {"displayText": "SEWA","id": 'donate'}},{"quickReplyButton": {"displayText": "OWNER","id": 'owner'}},{"quickReplyButton": {"displayText": "LIST MENU","id": 'command'}}] )
 							}
 						if(typemenu == 'templateTenor'){
 							alpha.send5ButGif(from, lang.menunya(salam, pushname, botname) , `© ${ownername}` ,pp_bot, [{"urlButton": {"displayText": "Tiktok Creator","url": `${youtube}`}},{"callButton": {"displayText": "Kontak Owner","url": `${myweb}`}},{"quickReplyButton": {"displayText": "SEWA","id": 'donate'}},{"quickReplyButton": {"displayText": "OWNER","id": 'owner'}},{"quickReplyButton": {"displayText": "LIST MENU","id": 'command'}}] , {quoted: m})
